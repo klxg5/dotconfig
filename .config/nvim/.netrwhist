@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/aegrin/code/f1/Metrics/app/Console'
+let g:netrw_dirhist_4='/home/aegrin/.config/jesseduffield/lazygit'
+let g:netrw_dirhist_3='/home/aegrin/code/f1/Metrics/app/Http/Controllers/MeterHealth'
+let g:netrw_dirhist_2='/home/aegrin/code/f1/Metrics/app/Http/Controllers'
+let g:netrw_dirhist_1='/home/aegrin/code/f1/Metrics/app/Http'
+let g:netrw_dirhist_0='/home/aegrin/code/scratch'
+let g:netrw_dirhist_9='/home/aegrin/code'
+let g:netrw_dirhist_8='/home/aegrin/.config/nvim/conf/base'
+let g:netrw_dirhist_7='/home/aegrin/.config/nvim/configs'
+let g:netrw_dirhist_6='/home/aegrin/.config/nvim'
